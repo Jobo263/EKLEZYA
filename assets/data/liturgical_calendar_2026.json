@@ -1,0 +1,187 @@
+{
+  "year": 2026,
+  "easter": "2026-04-05",
+  "movableFeasts": {
+    "ashWednesday": "2026-02-18",
+    "palmSunday": "2026-03-29",
+    "holyThursday": "2026-04-02",
+    "goodFriday": "2026-04-03",
+    "holySaturday": "2026-04-04",
+    "easter": "2026-04-05",
+    "ascension": "2026-05-14",
+    "pentecost": "2026-05-24",
+    "trinitySunday": "2026-05-31",
+    "corpusChristi": "2026-06-07",
+    "firstSundayOfAdvent": "2026-11-29",
+    "christmasDay": "2026-12-25"
+  },
+  "readings": [
+    {
+      "date": "2026-01-01",
+      "season": "christmas",
+      "liturgicalColor": "white",
+      "celebrationNameFr": "Sainte Marie, Mère de Dieu — Journée mondiale de la Paix",
+      "celebrationNameEn": "Solemnity of Mary, Mother of God — World Day of Peace",
+      "rank": "solemnity",
+      "isHolyDay": true,
+      "readings": [
+        {
+          "type": "first",
+          "reference": "Nb 6, 22-27",
+          "titleFr": "Le Seigneur te bénisse et te garde",
+          "titleEn": "The Lord bless you and keep you",
+          "textFr": "Le Seigneur parla à Moïse et dit : « Parle à Aaron et à ses fils : Voici comment vous bénirez les fils d'Israël ; vous leur direz : Que le Seigneur te bénisse et te garde ! Que le Seigneur fasse briller sur toi son visage, qu'il te prenne en grâce ! Que le Seigneur tourne vers toi son visage, qu'il t'apporte la paix ! » — Ils mettront ainsi mon nom sur les fils d'Israël, et moi, je les bénirai.",
+          "textEn": "The LORD spoke to Moses: Speak to Aaron and his sons and tell them: This is how you shall bless the Israelites. Say to them: The LORD bless you and keep you! The LORD let his face shine upon you, and be gracious to you! The LORD look upon you kindly and give you peace! So shall they invoke my name upon the Israelites, and I will bless them."
+        },
+        {
+          "type": "psalm",
+          "reference": "Ps 66",
+          "titleFr": "Que Dieu nous bénisse",
+          "titleEn": "May God bless us",
+          "textFr": "Que Dieu nous prenne en grâce et nous bénisse, que son visage s'illumine pour nous ! Que ta voie soit connue sur la terre, ton salut, parmi toutes les nations.",
+          "textEn": "May God have pity on us and bless us; may he let his face shine upon us. So may your way be known upon earth; among all nations, your salvation."
+        },
+        {
+          "type": "second",
+          "reference": "Ga 4, 4-7",
+          "titleFr": "Dieu a envoyé son Fils, né d'une femme",
+          "titleEn": "God sent his Son, born of a woman",
+          "textFr": "Frères, quand est venue la plénitude du temps, Dieu a envoyé son Fils, né d'une femme, né sous la Loi, afin de racheter ceux qui étaient sous la Loi, afin de nous conférer l'adoption filiale. La preuve que vous êtes des fils, c'est que Dieu a envoyé dans nos cœurs l'Esprit de son Fils, qui crie : « Abba ! », c'est-à-dire : Père ! Ainsi tu n'es plus esclave, mais fils ; et si tu es fils, tu es aussi héritier : c'est l'œuvre de Dieu.",
+          "textEn": "Brothers and sisters: When the fullness of time had come, God sent his Son, born of a woman, born under the law, to ransom those under the law, so that we might receive adoption as sons. As proof that you are sons, God sent the Spirit of his Son into our hearts, crying out, 'Abba, Father!' So you are no longer a slave but a son, and if a son then also an heir, through God."
+        },
+        {
+          "type": "gospel",
+          "reference": "Lc 2, 16-21",
+          "titleFr": "Marie gardait toutes ces choses en son cœur",
+          "titleEn": "Mary kept all these things in her heart",
+          "textFr": "En ce temps-là, les bergers se hâtèrent d'aller à Bethléem, et ils découvrirent Marie et Joseph, avec le nouveau-né couché dans la mangeoire. Après avoir vu, ils racontèrent ce qui leur avait été annoncé au sujet de cet enfant. Tous ceux qui entendirent s'étonnèrent de ce que leur disaient les bergers. Marie, cependant, retenait tous ces événements et les méditait dans son cœur. Les bergers repartirent ; ils glorifiaient et louaient Dieu pour tout ce qu'ils avaient entendu et vu, selon ce qui leur avait été annoncé. Quand vint le huitième jour, celui de la circoncision, l'enfant reçut le nom de Jésus, le nom que l'ange lui avait donné avant sa conception.",
+          "textEn": "The shepherds went in haste to Bethlehem and found Mary and Joseph, and the infant lying in the manger. When they saw this, they made known the message that had been told them about this child. All who heard it were amazed by what had been told them by the shepherds. And Mary kept all these things, reflecting on them in her heart. Then the shepherds returned, glorifying and praising God for all they had heard and seen, just as it had been told to them. When eight days were completed for his circumcision, he was named Jesus, the name given him by the angel before he was conceived in the womb."
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "season": "lent",
+      "liturgicalColor": "purple",
+      "celebrationNameFr": "Mercredi des Cendres",
+      "celebrationNameEn": "Ash Wednesday",
+      "rank": "ash_wednesday",
+      "isHolyDay": false,
+      "readings": [
+        {
+          "type": "first",
+          "reference": "Jl 2, 12-18",
+          "titleFr": "Revenez à moi de tout votre cœur",
+          "titleEn": "Return to me with your whole heart",
+          "textFr": "Maintenant — oracle du Seigneur — revenez à moi de tout votre cœur, dans le jeûne, les pleurs et le deuil. Déchirez vos cœurs et non vos vêtements, et revenez au Seigneur votre Dieu, car il est tendre et miséricordieux, lent à la colère, riche en amour, et il se repent du mal.",
+          "textEn": "Even now, says the LORD, return to me with your whole heart, with fasting, and weeping, and mourning; Rend your hearts, not your garments, and return to the LORD, your God. For gracious and merciful is he, slow to anger, rich in kindness, and relenting in punishment."
+        },
+        {
+          "type": "gospel",
+          "reference": "Mt 6, 1-6.16-18",
+          "titleFr": "Ton Père qui voit dans le secret te le rendra",
+          "titleEn": "Your Father who sees in secret will repay you",
+          "textFr": "En ce temps-là, Jésus disait à ses disciples : « Gardez-vous de pratiquer votre piété devant les hommes pour vous faire remarquer d'eux ; autrement, il n'y a pas de récompense pour vous auprès de votre Père qui est aux cieux. Donc, quand tu fais l'aumône, ne fais pas sonner la trompette devant toi, comme font les hypocrites dans les synagogues et dans les rues, pour être glorifiés par les hommes. Amen, je vous le dis : ceux-là ont reçu leur récompense. »",
+          "textEn": "Jesus said to his disciples: 'Take care not to perform righteous deeds in order that people may see them; otherwise, you will have no recompense from your heavenly Father. When you give alms, do not blow a trumpet before you, as the hypocrites do in the synagogues and in the streets to win the praise of others. Amen, I say to you, they have received their reward.'"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "season": "easter",
+      "liturgicalColor": "white",
+      "celebrationNameFr": "Dimanche de Pâques — Résurrection du Seigneur",
+      "celebrationNameEn": "Easter Sunday — Resurrection of the Lord",
+      "rank": "solemnity",
+      "isHolyDay": true,
+      "readings": [
+        {
+          "type": "first",
+          "reference": "Ac 10, 34a.37-43",
+          "titleFr": "Nous avons mangé et bu avec lui après sa résurrection",
+          "titleEn": "We ate and drank with him after his resurrection",
+          "textFr": "En ces jours-là, Pierre prit la parole et dit : « Vous savez ce qui s'est accompli dans tout le pays des Juifs, après avoir commencé en Galilée, à la suite du baptême proclamé par Jean : comment Dieu a oint de l'Esprit Saint et de puissance Jésus de Nazareth, qui a passé en faisant le bien et en guérissant tous ceux qui étaient sous le pouvoir du diable, car Dieu était avec lui. »",
+          "textEn": "Peter proceeded to speak and said: 'You know what has happened all over Judea, beginning in Galilee after the baptism that John preached, how God anointed Jesus of Nazareth with the Holy Spirit and power. He went about doing good and healing all those oppressed by the devil, for God was with him.'"
+        },
+        {
+          "type": "psalm",
+          "reference": "Ps 117",
+          "titleFr": "Voici le jour que fit le Seigneur",
+          "titleEn": "This is the day the Lord has made",
+          "textFr": "Rendez grâce au Seigneur car il est bon, éternel est son amour ! Que le dise Israël : éternel est son amour ! La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle : c'est là l'œuvre du Seigneur, la merveille devant nos yeux.",
+          "textEn": "Give thanks to the LORD, for he is good, for his mercy endures forever. Let the house of Israel say, 'His mercy endures forever.' The stone which the builders rejected has become the cornerstone. By the LORD has this been done; it is wonderful in our eyes."
+        },
+        {
+          "type": "second",
+          "reference": "Col 3, 1-4",
+          "titleFr": "Recherchez les réalités d'en haut",
+          "titleEn": "Seek what is above",
+          "textFr": "Frères, vous êtes ressuscités avec le Christ. Recherchez donc les réalités d'en haut : c'est là qu'est le Christ, assis à la droite de Dieu. Tendez vers les réalités d'en haut, non vers celles de la terre. En effet, vous êtes morts, et votre vie reste cachée avec le Christ en Dieu. Quand paraîtra le Christ, votre vie, alors vous aussi vous paraîtrez avec lui en pleine gloire.",
+          "textEn": "Brothers and sisters: If then you were raised with Christ, seek what is above, where Christ is seated at the right hand of God. Think of what is above, not of what is on earth. For you have died, and your life is hidden with Christ in God. When Christ your life appears, then you too will appear with him in glory."
+        },
+        {
+          "type": "gospel",
+          "reference": "Jn 20, 1-9",
+          "titleFr": "Il fallait que Jésus ressuscite d'entre les morts",
+          "titleEn": "He had to rise from the dead",
+          "textFr": "Le premier jour de la semaine, Marie Madeleine se rend au tombeau de bon matin ; c'était encore les ténèbres. Elle voit que la pierre a été enlevée du tombeau. Elle court trouver Simon-Pierre et l'autre disciple, celui que Jésus aimait, et elle leur dit : « On a enlevé le Seigneur de son tombeau, et nous ne savons pas où on l'a mis. »",
+          "textEn": "On the first day of the week, Mary of Magdala came to the tomb early in the morning, while it was still dark, and saw the stone removed from the tomb. So she ran and went to Simon Peter and to the other disciple whom Jesus loved, and told them, 'They have taken the Lord from the tomb, and we don't know where they put him.'"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "season": "ordinary",
+      "liturgicalColor": "red",
+      "celebrationNameFr": "Pentecôte — Solennité de l'Esprit Saint",
+      "celebrationNameEn": "Pentecost Sunday — Solemnity of the Holy Spirit",
+      "rank": "solemnity",
+      "isHolyDay": true,
+      "readings": [
+        {
+          "type": "first",
+          "reference": "Ac 2, 1-11",
+          "titleFr": "Tous furent remplis de l'Esprit Saint",
+          "titleEn": "They were all filled with the Holy Spirit",
+          "textFr": "Quand arriva la Pentecôte (le cinquantième jour après Pâques), ils se trouvaient réunis tous ensemble. Soudain il vint du ciel un bruit pareil à celui d'un violent coup de vent : toute la maison où ils se tenaient assis en fut remplie. Ils virent apparaître des langues qu'on aurait dites de feu, qui se partageaient, et il s'en posa une sur chacun d'eux. Tous furent remplis de l'Esprit Saint : ils se mirent à parler en d'autres langues, et chacun s'exprimait selon le don de l'Esprit.",
+          "textEn": "When the time for Pentecost was fulfilled, they were all in one place together. And suddenly there came from the sky a noise like a strong driving wind, and it filled the entire house in which they were. Then there appeared to them tongues as of fire, which parted and came to rest on each one of them. And they were all filled with the Holy Spirit and began to speak in different tongues, as the Spirit enabled them to proclaim."
+        },
+        {
+          "type": "gospel",
+          "reference": "Jn 20, 19-23",
+          "titleFr": "Recevez l'Esprit Saint",
+          "titleEn": "Receive the Holy Spirit",
+          "textFr": "Le soir de ce même jour, le premier de la semaine, alors que les portes du lieu où se trouvaient les disciples étaient verrouillées par crainte des Juifs, Jésus vint, et il était là au milieu d'eux. Il leur dit : « La paix soit avec vous ! » Après cette parole, il leur montra ses mains et son côté. Les disciples furent remplis de joie en voyant le Seigneur. Jésus leur dit de nouveau : « La paix soit avec vous ! De même que le Père m'a envoyé, moi aussi je vous envoie. » Ayant ainsi parlé, il souffla sur eux et leur dit : « Recevez l'Esprit Saint. »",
+          "textEn": "On the evening of that first day of the week, when the doors were locked, where the disciples were, for fear of the Jews, Jesus came and stood in their midst and said to them, 'Peace be with you.' When he had said this, he showed them his hands and his side. The disciples rejoiced when they saw the Lord. Jesus said to them again, 'Peace be with you. As the Father has sent me, so I send you.' And when he had said this, he breathed on them and said to them, 'Receive the Holy Spirit.'"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "season": "christmas",
+      "liturgicalColor": "white",
+      "celebrationNameFr": "Nativité du Seigneur — Noël",
+      "celebrationNameEn": "Nativity of the Lord — Christmas",
+      "rank": "solemnity",
+      "isHolyDay": true,
+      "readings": [
+        {
+          "type": "first",
+          "reference": "Is 52, 7-10",
+          "titleFr": "Toutes les extrémités de la terre verront le salut de notre Dieu",
+          "titleEn": "All the ends of the earth will see the salvation of our God",
+          "textFr": "Comme ils sont beaux sur les montagnes, les pieds du messager qui annonce la paix, du messager qui apporte la bonne nouvelle, qui annonce le salut, qui dit à Sion : « Ton Dieu est roi ! » Écoutez ! Vos guetteurs élèvent la voix, ensemble ils poussent des cris de joie, car ils voient de leurs yeux le Seigneur qui revient à Sion.",
+          "textEn": "How beautiful upon the mountains are the feet of the one bringing good news, announcing peace, bearing good news, announcing salvation, saying to Zion, 'Your God is King!' Listen! Your watchmen raise a cry, together they shout for joy, for they see directly, before their eyes, the LORD restoring Zion."
+        },
+        {
+          "type": "gospel",
+          "reference": "Jn 1, 1-18",
+          "titleFr": "Le Verbe s'est fait chair",
+          "titleEn": "The Word became flesh",
+          "textFr": "Au commencement était le Verbe, et le Verbe était avec Dieu, et le Verbe était Dieu. Il était au commencement avec Dieu. Par lui, tout s'est fait, et rien de ce qui s'est fait ne s'est fait sans lui. En lui était la vie, et la vie était la lumière des hommes ; la lumière brille dans les ténèbres, et les ténèbres ne l'ont pas arrêtée... Et le Verbe s'est fait chair, il a habité parmi nous, et nous avons contemplé sa gloire, la gloire qu'il tient de son Père comme Fils unique, plein de grâce et de vérité.",
+          "textEn": "In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came to be through him, and without him nothing came to be. What came to be through him was life, and this life was the light of the human race; the light shines in the darkness, and the darkness has not overcome it... And the Word became flesh and made his dwelling among us, and we saw his glory, the glory as of the Father's only Son, full of grace and truth."
+        }
+      ]
+    }
+  ]
+}

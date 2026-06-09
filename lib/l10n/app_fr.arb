@@ -1,0 +1,293 @@
+{
+  "@@locale": "fr",
+
+  "appName": "EKLEZYA",
+  "@appName": { "description": "Nom de l'application" },
+
+  "appTagline": "Votre compagnon spirituel catholique",
+  "@appTagline": {},
+
+  "loading": "Chargement...",
+  "retry": "Réessayer",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "save": "Enregistrer",
+  "delete": "Supprimer",
+  "close": "Fermer",
+  "back": "Retour",
+  "next": "Suivant",
+  "previous": "Précédent",
+  "skip": "Passer",
+  "done": "Terminé",
+  "search": "Rechercher",
+  "share": "Partager",
+  "copy": "Copier",
+  "copied": "Copié !",
+  "error": "Erreur",
+  "errorGeneric": "Une erreur est survenue. Veuillez réessayer.",
+  "noConnection": "Pas de connexion internet",
+  "offline": "Hors ligne",
+
+  "onboardingTitle1": "Bienvenue dans EKLEZYA",
+  "onboardingSubtitle1": "Votre compagnon spirituel catholique pour chaque jour",
+  "onboardingTitle2": "La Bible Complète",
+  "onboardingSubtitle2": "Lisez, mémorisez et méditez la Parole de Dieu dans la traduction de votre choix",
+  "onboardingTitle3": "Liturgie Quotidienne",
+  "onboardingSubtitle3": "Suivez le calendrier liturgique, les messes et les fêtes de l'Église catholique",
+  "onboardingTitle4": "Les Saints",
+  "onboardingSubtitle4": "Découvrez la vie inspirante des saints et martyrs de notre foi",
+  "onboardingTitle5": "IA Théologique",
+  "onboardingSubtitle5": "Posez vos questions spirituelles à notre assistant IA formé à la théologie catholique",
+  "onboardingGetStarted": "Commencer",
+  "onboardingSignIn": "J'ai déjà un compte",
+
+  "authWelcome": "Bienvenue",
+  "authSignIn": "Se connecter",
+  "authSignUp": "Créer un compte",
+  "authSignOut": "Se déconnecter",
+  "authContinueWithGoogle": "Continuer avec Google",
+  "authContinueWithApple": "Continuer avec Apple",
+  "authContinueWithEmail": "Continuer avec l'email",
+  "authEmail": "Adresse email",
+  "authPassword": "Mot de passe",
+  "authForgotPassword": "Mot de passe oublié ?",
+  "authNoAccount": "Pas encore de compte ?",
+  "authHasAccount": "Déjà un compte ?",
+  "authTerms": "En continuant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialité.",
+  "authOrDivider": "ou",
+
+  "homeGreetingMorning": "Bonjour, {name} !",
+  "@homeGreetingMorning": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "homeGreetingAfternoon": "Bon après-midi, {name} !",
+  "@homeGreetingAfternoon": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "homeGreetingEvening": "Bonsoir, {name} !",
+  "@homeGreetingEvening": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "homeVerseOfDay": "Verset du Jour",
+  "homeSaintOfDay": "Saint du Jour",
+  "homeLiturgicalDay": "Jour Liturgique",
+  "homeStreak": "Série actuelle",
+  "homeStreakDays": "{count} jours",
+  "@homeStreakDays": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "homePrayerReminder": "Il est temps de prier",
+  "homeQuickActions": "Actions rapides",
+  "homeReadBible": "Lire la Bible",
+  "homePray": "Prier",
+  "homeLiturgy": "Liturgie",
+  "homeExplore": "Explorer",
+
+  "bibleTitle": "Bible",
+  "bibleSearch": "Rechercher dans la Bible",
+  "bibleOldTestament": "Ancien Testament",
+  "bibleNewTestament": "Nouveau Testament",
+  "bibleChapter": "Chapitre {number}",
+  "@bibleChapter": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "bibleVerse": "Verset {number}",
+  "@bibleVerse": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "bibleHighlight": "Surligner",
+  "bibleAddNote": "Ajouter une note",
+  "bibleFavorite": "Mettre en favori",
+  "bibleShare": "Partager ce verset",
+  "bibleListen": "Écouter",
+  "bibleTranslation": "Traduction",
+  "bibleFontSize": "Taille de police",
+  "bibleNightMode": "Mode nuit",
+  "bibleBookmarks": "Signets",
+  "bibleHighlights": "Surlignages",
+  "bibleNotes": "Notes",
+  "bibleHistory": "Historique",
+  "bibleReadingPlan": "Plan de lecture",
+
+  "prayersTitle": "Prières",
+  "prayersDailyPrayers": "Prières quotidiennes",
+  "prayersMorning": "Prières du matin",
+  "prayersEvening": "Prières du soir",
+  "prayersRosary": "Chapelet",
+  "prayersLitanies": "Litanies",
+  "prayersNovenas": "Neuvaines",
+  "prayersChaplet": "Chapelet de la Miséricorde",
+  "prayersFavorites": "Mes prières favorites",
+  "prayersTimer": "Minuterie de prière",
+  "prayersMinutes": "{count} min",
+  "@prayersMinutes": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "prayerStart": "Commencer la prière",
+  "prayerPause": "Pause",
+  "prayerResume": "Reprendre",
+  "prayerComplete": "Prière terminée",
+  "prayersRosaryJoyful": "Mystères joyeux",
+  "prayersRosarySorrowful": "Mystères douloureux",
+  "prayersRosaryGlorious": "Mystères glorieux",
+  "prayersRosaryLuminous": "Mystères lumineux",
+  "prayersRosaryBead": "Grain {number}",
+  "@prayersRosaryBead": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+
+  "liturgyTitle": "Liturgie",
+  "liturgySeason": "Temps liturgique",
+  "liturgyColor": "Couleur liturgique",
+  "liturgyReadings": "Lectures du jour",
+  "liturgyFirstReading": "Première lecture",
+  "liturgyPsalm": "Psaume",
+  "liturgySecondReading": "Deuxième lecture",
+  "liturgyGospel": "Évangile",
+  "liturgyCalendar": "Calendrier liturgique",
+  "liturgyMass": "Messe du jour",
+  "liturgyFeast": "Fête",
+  "liturgySolemnity": "Solennité",
+  "liturgyMemorial": "Mémoire",
+  "liturgyOrdinaryTime": "Temps Ordinaire",
+  "liturgyAdvent": "Avent",
+  "liturgyChristmas": "Noël",
+  "liturgyLent": "Carême",
+  "liturgyHolyWeek": "Semaine Sainte",
+  "liturgyEaster": "Temps Pascal",
+  "liturgyWeek": "Semaine {number}",
+  "@liturgyWeek": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+
+  "saintsTitle": "Saints",
+  "saintOfDay": "Saint du jour",
+  "saintsCalendar": "Calendrier des saints",
+  "saintsBrowse": "Parcourir les saints",
+  "saintsSearch": "Rechercher un saint",
+  "saintFeastDay": "Fête le {date}",
+  "@saintFeastDay": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "saintCanonized": "Canonisé le {date}",
+  "@saintCanonized": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "saintPatronOf": "Patron(ne) de",
+  "saintBornIn": "Né(e) en {year}",
+  "@saintBornIn": {
+    "placeholders": {
+      "year": { "type": "String" }
+    }
+  },
+  "saintDiedIn": "Décédé(e) en {year}",
+  "@saintDiedIn": {
+    "placeholders": {
+      "year": { "type": "String" }
+    }
+  },
+  "saintBiography": "Biographie",
+  "saintPrayer": "Prière à {name}",
+  "@saintPrayer": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "saintQuote": "Citation",
+
+  "aiTitle": "Assistant Théologique",
+  "aiSubtitle": "Posez vos questions sur la foi catholique",
+  "aiPlaceholder": "Posez votre question...",
+  "aiSend": "Envoyer",
+  "aiTyping": "EKLEZYA réfléchit...",
+  "aiNewConversation": "Nouvelle conversation",
+  "aiHistory": "Historique",
+  "aiSuggestion1": "Qu'est-ce que la Trinité ?",
+  "aiSuggestion2": "Comment me confesser ?",
+  "aiSuggestion3": "Expliquez le Notre Père",
+  "aiSuggestion4": "Qu'est-ce que l'Eucharistie ?",
+  "aiDisclaimer": "Les réponses de l'IA sont à titre informatif. Pour des questions importantes, consultez un prêtre ou un théologien.",
+
+  "profileTitle": "Profil",
+  "profileEdit": "Modifier le profil",
+  "profileName": "Nom",
+  "profileEmail": "Email",
+  "profileParish": "Ma paroisse",
+  "profileDiocese": "Mon diocèse",
+  "profileStats": "Mes statistiques",
+  "profileStreak": "Série de prière",
+  "profilePrayersCompleted": "Prières complétées",
+  "profileBibleChaptersRead": "Chapitres lus",
+  "profileBadges": "Mes médailles",
+  "profileSubscription": "Abonnement",
+  "profileSubscribePremium": "Passer à Premium",
+  "profilePremiumFeatures": "Fonctionnalités Premium",
+  "profileSettings": "Paramètres",
+  "profileLanguage": "Langue",
+  "profileNotifications": "Notifications",
+  "profileDarkMode": "Mode sombre",
+  "profileAbout": "À propos d'EKLEZYA",
+  "profilePrivacy": "Politique de confidentialité",
+  "profileTerms": "Conditions d'utilisation",
+  "profileVersion": "Version {version}",
+  "@profileVersion": {
+    "placeholders": {
+      "version": { "type": "String" }
+    }
+  },
+
+  "formationTitle": "Formation",
+  "formationCatechism": "Catéchisme",
+  "formationCourses": "Cours de théologie",
+  "formationDocuments": "Documents de l'Église",
+
+  "communityTitle": "Communauté",
+  "communityGroups": "Groupes de prière",
+  "communityEvents": "Événements",
+  "communityForum": "Forum",
+
+  "parishesTitle": "Paroisses",
+  "parishesNearMe": "Paroisses près de moi",
+  "parishMass": "Horaires des messes",
+  "parishContact": "Contact",
+
+  "premiumTitle": "EKLEZYA Premium",
+  "premiumSubtitle": "Approfondissez votre foi avec des fonctionnalités exclusives",
+  "premiumFeature1": "Bible complète avec audio",
+  "premiumFeature2": "Chapelet interactif avec méditations",
+  "premiumFeature3": "Assistant IA illimité",
+  "premiumFeature4": "Contenu hors ligne complet",
+  "premiumFeature5": "Plans de lecture personnalisés",
+  "premiumMonthly": "Mensuel",
+  "premiumYearly": "Annuel",
+  "premiumSave": "Économisez {percent}%",
+  "@premiumSave": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "premiumSubscribe": "S'abonner",
+  "premiumRestorePurchase": "Restaurer les achats"
+}
